@@ -1,0 +1,19 @@
+[#_task_adoc]
+= Task Adoc
+
+== Hello
+
+- one
+- two
+
+---
+
+- amit szeretnél itt látni. saját feljegyzés, projekt tervezés, stb
+
+```
+
+a task lehetne plan adoc is pl
+
+task -> feladat leírás ...
+
+
